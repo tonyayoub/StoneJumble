@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "filename" : "addGoldAd.iPhone.pdf"
+    },
+    {
+      "idiom" : "ipad",
+      "filename" : "addGoldAd.pdf"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<level>
+    
+    <shooter id="1" x="0.5" y="0.5" />
+    <targets>
+        <target id="2" x="0.50" y="8.00" />
+        <target id="3" x="0.70" y="4.00" />
+    </targets>
+    <blocks>
+        <block id="3" x="0.0" y="0.2" type="wood" number="2" direction="hor" />
+        <block id="4" x="0.6" y="1.0" type="metal" number="2" direction="ver" />
+    </blocks>
+    <background id="1" img="background" />
+</level>

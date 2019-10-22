@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Burger.setupPhysics() -&gt; ():Burger.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.position">
+            </PersistentString>
+            <PersistentString
+               value = "self.size">
+            </PersistentString>
+            <PersistentString
+               value = "self.totalSize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "displayCurrentAddon #1 () in static Boxes.addFixedObjectsToAddonShoppingBox(winBox:glass:):Boxes.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SJSpriteNode.expandThenCollapse(Double) -&gt; ():SJSpriteNode.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Addon.emit():Addon.swift">
+      </ContextState>
+      <ContextState
+         contextName = "PlistManager.saveValue(value : Int, forKey : String) -&gt; ():PlistManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SJLevelScene.createSceneContentsFromLevelData() -&gt; ():SJLevelScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "particleLayerNode.frame.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Target.makeChildrenB() -&gt; ():Target.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "_strength">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Burger.totalSize.getter:Burger.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.parent?.convertPoint(self.position, fromNode: self)">
+            </PersistentString>
+            <PersistentString
+               value = "self.position.y">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BurgerPart.destroy(CGPoint) -&gt; ():BurgerPart.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.position">
+            </PersistentString>
+            <PersistentString
+               value = "self.parentBurger!.parent.shooter">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static Addon.make(objectSpec:):Addon.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "res.blendMode">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Burger.gotOneHit(CGPoint) -&gt; ():Burger.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.position">
+            </PersistentString>
+            <PersistentString
+               value = "numberOfHits">
+            </PersistentString>
+            <PersistentString
+               value = "emitter.xAcceleration">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static ProgressManager.getLevelAch(levelID : Int) -&gt; Int:ProgressManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "type(of: result1?[episodes]">
+            </PersistentString>
+            <PersistentString
+               value = "type(of: result1)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Burger.animateHittingOnePart(CGPoint, removedPart : BurgerPart) -&gt; ():Burger.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "removedPart.physicsBody">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static Burger.make(String, objectSpec : Int) -&gt; SJSpriteNode?:Burger.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "part.strength">
+            </PersistentString>
+            <PersistentString
+               value = "res.strength">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static Burger.make(objectSpec:):Burger.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "res.size.height">
+            </PersistentString>
+            <PersistentString
+               value = "res.strengthLabel.position.y">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ParentActioner.runActionOnCollection(actioners : [ChildActioner], afterTheyFinish : () -&gt; ()) -&gt; ():ParentActioner.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "childrenActioners.isEmpty()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SJLevelScene.addObjectsToSceneAndCalculateInitialPositions([SJSpriteNode], y : CGFloat, moveDown : Bool) -&gt; ():SJLevelScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "objects[0].totalSize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BurgerPart.init(str : Int, imgNm : String, drawOrd : Int, vDisp : CGFloat) -&gt; BurgerPart:BurgerPart.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "texture.size()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BurgerPart.touchBottom(touchPosition : CGPoint) -&gt; ():BurgerPart.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SJLevelScene.update(_:):SJLevelScene.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChildActioner.performWantedAction() -&gt; ():ChildActioner.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.wantedAction">
+            </PersistentString>
+            <PersistentString
+               value = "selfSKNode">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static ProgressManager.saveLevelAch(episodeID : Int, levelID : Int, value : Int) -&gt; ():ProgressManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "episodes.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SJLevelScene.didBegin(SKPhysicsContact) -&gt; ():SJLevelScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "firstBody.node">
+            </PersistentString>
+            <PersistentString
+               value = "firstBody.categoryBitMask">
+            </PersistentString>
+            <PersistentString
+               value = "contact.contactPoint">
+            </PersistentString>
+            <PersistentString
+               value = "secondBody.categoryBitMask">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SJLevelScene.touchesBegan(_:with:):SJLevelScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "SJLevelScene.status">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Burger.animateBeingHit(numberOfHits : Int) -&gt; ():Burger.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "part.strength">
+            </PersistentString>
+            <PersistentString
+               value = "self._strength">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Shooter.shoot(CGVector) -&gt; ():Shooter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.physicsBody">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SJLevelScene.moveObstaclesAndAddonsToTheirPositions():SJLevelScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "waitingTimeBeforeLevelStart">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SJLevelScene.placeObjects():SJLevelScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "target.strengthLabel.position.y">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SJLevelScene.update(Double) -&gt; ():SJLevelScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "_shooter">
+            </PersistentString>
+            <PersistentString
+               value = "_shooter.isMoving">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Burger.runBufferedHits(hitter:):Burger.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static SJLevelCreator.createObjects2() -&gt; ():SJLevelCreator.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Burger.makeChildrenB2() -&gt; ():Burger.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.zPosition">
+            </PersistentString>
+            <PersistentString
+               value = "burgerPart.zPosition">
+            </PersistentString>
+            <PersistentString
+               value = "burgerPart.drawingOrder">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Fries.gotOneHit(CGPoint, hits : Int) -&gt; ():Fries.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "child.name">
+            </PersistentString>
+            <PersistentString
+               value = "dummyNode.position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Tutorial.alignText():Tutorial.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SJLevelScene.didBeginContact(SKPhysicsContact) -&gt; ():SJLevelScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "contact.bodyA.categoryBitMask">
+            </PersistentString>
+            <PersistentString
+               value = "secondBody.node">
+            </PersistentString>
+            <PersistentString
+               value = "self">
+            </PersistentString>
+            <PersistentString
+               value = "contact.bodyB.categoryBitMask">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Burger.destroyIfNoFallingPartsStillExist() -&gt; ():Burger.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Burger.calculateInitialPosition() -&gt; ():Burger.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.parent?.parent">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Burger.adjustChildrenPositions() -&gt; ():Burger.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "burgerPart.wantedPosition">
+            </PersistentString>
+            <PersistentString
+               value = "burgerPart.position">
+            </PersistentString>
+            <PersistentString
+               value = "burgerPart.position.y">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Shooter.getShootingVector(touchingVector:):Shooter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "speedFactor * usedPower">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static NPDirector.startLevel() -&gt; ():NPDirector.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentEpisodeScene.view">
+            </PersistentString>
+            <PersistentString
+               value = "shared.currentLevelScene">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Shooter.spawnChild(waitingTime:vector:power:):Shooter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "childShooter.physicsBody.mass">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Shooter.arrangeAddons():Shooter.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SJLevelScene.shoot(destination:):SJLevelScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "_shooter.position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SJLevelScene.checkForLoss():SJLevelScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NPDirector.shared.currentEpisodeID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Burger.calculateAndSaveSize() -&gt; ():Burger.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "partSprite.position.y">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SJLevelScene.moveOneObjectToItsPlace(Burger, order : Int) -&gt; ():SJLevelScene.swift">
+      </ContextState>
+      <ContextState
+         contextName = "BurgerPart.parentDestroyMe() -&gt; ():BurgerPart.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.parentBurger">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BurgerPart.destroy() -&gt; ():BurgerPart.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Burger.gotOneHit(CGPoint, hits : Int) -&gt; ():Burger.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static Boxes.showAddonShopping(ownerFrame:parentSKNode:):Boxes.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NPDirector.shared.gamePaused">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SJLevelScene.placeObjects() -&gt; ():SJLevelScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "_shooter.size">
+            </PersistentString>
+            <PersistentString
+               value = "_yPositionToPlaceObject">
+            </PersistentString>
+            <PersistentString
+               value = "_shooter.position">
+            </PersistentString>
+            <PersistentString
+               value = "_shooter.position.y + _shooter.size.height/2">
+            </PersistentString>
+            <PersistentString
+               value = "target._status">
+            </PersistentString>
+            <PersistentString
+               value = "target.totalSize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SJLevelScene.createBottomArea():SJLevelScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "musicCross.fontSize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Burger.gotOneHit(hitter:):Burger.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.hitsBuffer">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Burger.makeChildren() -&gt; ():Burger.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "burgerPart.wantedPosition">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainMenu.displayEpisodeTitleAndLevels(episodeID : Int) -&gt; ():MainMenu.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "maxEpisode">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Burger.hitOnePart(hittingPoint : CGPoint) -&gt; ():Burger.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.numberOfFallingParts">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Burger.gotOneHit(hitter:collisionPoint:):Burger.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.totalSize">
+            </PersistentString>
+            <PersistentString
+               value = "self.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "specialized Shooter.getShootingVector(touchingVector:):Shooter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "iPhoneVsiPadFactor">
+            </PersistentString>
+            <PersistentString
+               value = "speedFactor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in Tutorial.nextStep():Tutorial.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "apple.position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Tutorial.createObstacle(str:):Tutorial.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "firstObstacle.size.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static SJLevelCreator.parseLevelData() throws -&gt; Bool:SJLevelCreator.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "SJDirector.shared._hitsRemaining">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Tutorial.showShooterAndTargets():Tutorial.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static NPDirector.preparePlistForUse(String) -&gt; ():NPDirector.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "shared.plistPathInDocument">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BurgerPart.fireEmitter(position : CGPoint) -&gt; ():BurgerPart.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.parentBurger?.parent">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Burger.makeChildrenB() -&gt; ():Burger.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "part.imageName">
+            </PersistentString>
+            <PersistentString
+               value = "partSprite.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SJLevelScene.init(size : CGSize) -&gt; SJLevelScene:SJLevelScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "_bg">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

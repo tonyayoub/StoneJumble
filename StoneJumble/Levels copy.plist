@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>episodes</key>
+	<array>
+		<dict>
+			<key>levels</key>
+			<array>
+				<dict>
+					<key>time</key>
+					<integer>0</integer>
+					<key>hits</key>
+					<integer>35</integer>
+					<key>highScore</key>
+					<integer>0</integer>
+					<key>id</key>
+					<integer>0</integer>
+					<key>targets</key>
+					<string>blue:3:10,violet:4:4,orange:5:7</string>
+					<key>obstacles</key>
+					<string>wood:1:1,stone:2:2,metal:3:4</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "filename" : "broccoli.iPhone.pdf"
+    },
+    {
+      "idiom" : "ipad",
+      "filename" : "broccoli.pdf"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

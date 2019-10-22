@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "filename" : "tomatoe.iPhone.pdf"
+    },
+    {
+      "idiom" : "ipad",
+      "filename" : "tomatoe.pdf"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

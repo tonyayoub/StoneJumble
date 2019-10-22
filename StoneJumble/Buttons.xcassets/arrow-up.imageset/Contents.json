@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "filename" : "arrow.iPhone.pdf"
+    },
+    {
+      "idiom" : "ipad",
+      "filename" : "arrow.pdf"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

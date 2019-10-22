@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "filename" : "level-won-box.iPhone.pdf"
+    },
+    {
+      "idiom" : "ipad",
+      "filename" : "level-won-box.pdf"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

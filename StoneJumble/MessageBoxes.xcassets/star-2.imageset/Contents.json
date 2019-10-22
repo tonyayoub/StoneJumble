@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "filename" : "star-2.iPhone.pdf"
+    },
+    {
+      "idiom" : "ipad",
+      "filename" : "star-2.pdf"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "filename" : "banana-shopping.iPhone.pdf"
+    },
+    {
+      "idiom" : "ipad",
+      "filename" : "banana-shopping.pdf"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

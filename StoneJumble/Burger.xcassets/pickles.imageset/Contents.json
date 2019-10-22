@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "filename" : "pickles.iPhone.pdf"
+    },
+    {
+      "idiom" : "ipad",
+      "filename" : "pickles.pdf"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
